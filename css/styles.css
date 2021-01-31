@@ -71,7 +71,7 @@ body {
 
 @font-face {
     font-family: "memias";
-    src: url("/fonts/Memimas-Regular.ttf")
+    src: url("fonts/Memimas-Regular.ttf")
 }
 
 .liney {
